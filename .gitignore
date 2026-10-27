@@ -21,4 +21,8 @@ replay_pid*.log
 # Local configuration
 .DS_Store
 
+# Downloaded files and transfer state
+downloaded/
+.progress.dat
+
 .git-original-backup/
