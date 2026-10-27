@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# Local configuration
+.DS_Store
+
+.git-original-backup/
